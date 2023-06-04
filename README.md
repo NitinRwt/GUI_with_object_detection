@@ -15,7 +15,8 @@ python -m ipykernel install --user --name=(Name of Env)
 4. OPEN Jupyter Notebook
 
 5. Collect images using the Notebook 1. Image Collection.ipynb - ensure you change the kernel to the virtual environment as shown below
-![image](https://github.com/NitinRwt/Image-Recog/assets/110294741/c217ef1c-d52c-4d6c-837a-a9a122a431f5)
+![Uploading image.png…]()
+
 
 6. Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the following two folders.
 \TFOD\Tensorflow\workspace\images\train
